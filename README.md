@@ -19,3 +19,11 @@
 [About](#about) · [Highlights](#highlights) · [Modules](#modules) · [Screenshots](#screenshots) ·
 [Tech stack](#tech-stack) · [Architecture](#architecture) · [Quick start](#quick-start) · [Build](#build-from-source) ·
 [Reset data](#reset-data) · [Troubleshooting](#troubleshooting) · [Roadmap](#roadmap)
+
+## About
+Pundra CSE Smart Portal 25 brings everyday department work — students, teachers, courses, routine, attendance,
+exams, notices, library, canteen, blood donation and more — into a single Windows application written in **C with
+the Win32 API**. It started as a console project and grew into a full GUI with a login screen, sidebar navigation,
+dashboard cards and record management for every module.
+
+It ships with real-style default data for the **CSE 25 batch**: 38 students, 11 teachers and 10 courses.
