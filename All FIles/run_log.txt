@@ -1,6 +1,0 @@
-WinMain started
-WM_CREATE
-CreateWindow ok
-ShowWindow done
-WM_DESTROY
-Message loop ended
