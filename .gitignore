@@ -1,0 +1,9 @@
+# build output
+*.o
+*.obj
+PundraCSESmartPortal25_GUI.exe
+!release/PundraCSESmartPortal25_GUI.exe
+run_log.txt
+
+# runtime data (recreated from defaults)
+data/*.txt
