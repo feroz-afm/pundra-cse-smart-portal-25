@@ -137,3 +137,8 @@ gcc src/main.c -o PundraCSESmartPortal25_GUI.exe -mwindows -lgdi32 -luser32
 ./PundraCSESmartPortal25_GUI.exe
 ```
 On Windows you can also double-click **`build_and_run.bat`** (GCC must be on `PATH`, e.g. `C:\msys64\ucrt64\bin`).
+
+## Logging In
+- Use the default **admin** account stored in `data/users.txt` (ask the author for the demo login), or
+- Click **Register** to create your own account.
+- **Forgot password?** A 4-digit reset code is written to `data/mail_logs.txt`.
