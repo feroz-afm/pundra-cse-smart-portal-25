@@ -125,3 +125,15 @@ No compiler needed:
 1. Download **`release/PundraCSESmartPortal25_GUI.exe`**
 2. Put it in a folder of its own and double-click it
 3. A `data/` folder with the default CSE 25 data is created next to it
+
+## Build from Source
+Install [MSYS2](https://www.msys2.org), open **MSYS2 UCRT64** and install GCC:
+```bash
+pacman -S mingw-w64-ucrt-x86_64-gcc
+```
+Then, from the project folder:
+```bash
+gcc src/main.c -o PundraCSESmartPortal25_GUI.exe -mwindows -lgdi32 -luser32
+./PundraCSESmartPortal25_GUI.exe
+```
+On Windows you can also double-click **`build_and_run.bat`** (GCC must be on `PATH`, e.g. `C:\msys64\ucrt64\bin`).
