@@ -168,3 +168,10 @@ use **Insert/Add**, **Update**, **Delete** or **Refresh**. Step-by-step: [docs/U
 ## Development History
 The portal went through many iterations — dark stable theme, responsive fullscreen layout, wrapped detail panel,
 bigger fonts and more. See [docs/DEVELOPMENT_LOG.md](docs/DEVELOPMENT_LOG.md).
+
+## Roadmap
+- [ ] Upload `src/main.c` and split it into modules
+- [ ] Optional SQLite3 storage backend
+- [ ] Password hashing for user accounts
+- [ ] Export reports and results to PDF / CSV
+- [ ] Role-based access for teachers and students
