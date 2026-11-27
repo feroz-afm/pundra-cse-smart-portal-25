@@ -164,3 +164,7 @@ use **Insert/Add**, **Update**, **Delete** or **Refresh**. Step-by-step: [docs/U
 | Old or missing data | Run `reset_data.bat` to reload the defaults |
 | `gcc` not recognised | Add `C:\msys64\ucrt64\bin` to `PATH` or build inside the MSYS2 UCRT64 shell |
 | Login fails after an update | Delete `data/users.txt` and start again to recreate the default admin |
+
+## Development History
+The portal went through many iterations — dark stable theme, responsive fullscreen layout, wrapped detail panel,
+bigger fonts and more. See [docs/DEVELOPMENT_LOG.md](docs/DEVELOPMENT_LOG.md).
