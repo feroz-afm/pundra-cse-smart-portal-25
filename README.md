@@ -142,3 +142,13 @@ On Windows you can also double-click **`build_and_run.bat`** (GCC must be on `PA
 - Use the default **admin** account stored in `data/users.txt` (ask the author for the demo login), or
 - Click **Register** to create your own account.
 - **Forgot password?** A 4-digit reset code is written to `data/mail_logs.txt`.
+
+## Reset Data
+Close the app, then run:
+
+| Windows | Linux / MSYS2 |
+|---|---|
+| `reset_data.bat` | `sh reset_data.sh` |
+
+Module files are deleted and the default data (38 students, 11 teachers, 10 courses, …) is loaded again on the
+next start.
