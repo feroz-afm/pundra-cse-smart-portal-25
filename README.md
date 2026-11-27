@@ -27,3 +27,13 @@ the Win32 API**. It started as a console project and grew into a full GUI with a
 dashboard cards and record management for every module.
 
 It ships with real-style default data for the **CSE 25 batch**: 38 students, 11 teachers and 10 courses.
+
+## Highlights
+- 🔐 Login, registration and **forgot password** with a 4-digit reset code
+- 📊 **Dashboard** with live counts for students, teachers, courses and notices
+- 🧭 **Sidebar navigation** across 18 modules, opens maximised and stays responsive on resize
+- 📝 **Insert / Update / Delete / Refresh** on every module through a pop-up record form
+- 🧮 Built-in **CGPA calculator** and **canteen bill calculator**
+- 🕓 **Activity log** of changes
+- 💾 Automatic saving to plain-text files — no database server needed
+- 🎨 Dark theme with large Times New Roman fonts for readability
