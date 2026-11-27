@@ -118,3 +118,10 @@ pundra-cse-smart-portal-25/
 ├── LICENSE
 └── README.md
 ```
+
+## Quick Start
+No compiler needed:
+
+1. Download **`release/PundraCSESmartPortal25_GUI.exe`**
+2. Put it in a folder of its own and double-click it
+3. A `data/` folder with the default CSE 25 data is created next to it
