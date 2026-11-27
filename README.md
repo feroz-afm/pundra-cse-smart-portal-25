@@ -80,3 +80,16 @@ It ships with real-style default data for the **CSE 25 batch**: 38 students, 11 
 | Compiler | GCC on MSYS2 UCRT64 (`-mwindows -lgdi32 -luser32`) |
 | Storage | Plain-text files in `data/` |
 | OS | Windows 10 / 11 |
+
+## Architecture
+```mermaid
+flowchart LR
+    U[User] --> L[Login / Register / Forgot password]
+    L --> M[Main window<br/>header · sidebar · dashboard]
+    M --> R[Module view<br/>records list + details]
+    R --> F[Record form<br/>add · update]
+    R --> D[(data/*.txt)]
+    F --> D
+    M --> A[Activity log]
+    A --> D
+```
