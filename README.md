@@ -46,3 +46,8 @@ It ships with real-style default data for the **CSE 25 batch**: 38 students, 11 
 | Attendance | Department | Blood Donation | Settings |
 | CT / Exams | Groups | Lab Management | Logout |
 | Result & CGPA | | Notices · Reports | |
+
+## Screenshots
+| Login | Dashboard |
+|---|---|
+| ![Login](docs/screenshots/01-login.png) | ![Dashboard](docs/screenshots/02-dashboard.png) |
