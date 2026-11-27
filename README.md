@@ -102,3 +102,19 @@ Every module keeps its own file in `data/`, created with default data on the fir
 `settings` · `users` · `mail_logs`
 
 **Backup:** copy the `data/` folder.
+
+## Project Structure
+```
+pundra-cse-smart-portal-25/
+├── release/
+│   └── PundraCSESmartPortal25_GUI.exe   # ready-to-run build
+├── src/                                  # main.c goes here
+├── docs/
+│   ├── screenshots/                      # 17 screens
+│   ├── USER_GUIDE.md
+│   └── DEVELOPMENT_LOG.md                # history of fixes and updates
+├── build_and_run.bat                     # compile + start (Windows)
+├── reset_data.bat / reset_data.sh        # reload default data
+├── LICENSE
+└── README.md
+```
