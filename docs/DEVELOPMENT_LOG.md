@@ -1,4 +1,4 @@
-# Pundra CSE Smart Portal 25 - High Level GUI Style Version
+# Development Log — Pundra CSE Smart Portal 25 (Win32 GUI)
 
 This is a fresh high-level Win32 C GUI project.
 
@@ -19,11 +19,10 @@ Features:
 - Stable controls only: STATIC, EDIT, BUTTON, LISTBOX
 
 Admin login:
-Email: ferozahmedafm@gmail.com
-Password: Deptcse25
+Default admin credentials are stored in data/users.txt (ask the author for the demo login).
 
 MSYS2 UCRT64 run:
-cd "/c/Full C  project/pundra_cse_smart_portal_25"
+cd /path/to/pundra-cse-smart-portal-25
 rm -f PundraCSESmartPortal25_GUI.exe run_log.txt
 gcc src/main.c -o PundraCSESmartPortal25_GUI.exe -mwindows -lgdi32 -luser32
 ./PundraCSESmartPortal25_GUI.exe
@@ -70,8 +69,7 @@ ORGANIZED WRAP FINAL:
 
 LOGIN FIX:
 - Admin login now works even if old data/users.txt contains an older/wrong password.
-- Email: ferozahmedafm@gmail.com
-- Password: Deptcse25
+- Uses the default admin account from data/users.txt.
 
 
 FINAL RESPONSIVE FULLSCREEN FIX:
