@@ -93,3 +93,12 @@ flowchart LR
     M --> A[Activity log]
     A --> D
 ```
+
+## Data Files
+Every module keeps its own file in `data/`, created with default data on the first run:
+
+`dashboard` · `department` · `students` · `teachers` · `courses` · `routine` · `attendance` · `exams` ·
+`notices` · `groups` · `library` · `canteen` · `blood` · `labs` · `reports` · `results` · `activity` ·
+`settings` · `users` · `mail_logs`
+
+**Backup:** copy the `data/` folder.
