@@ -59,3 +59,15 @@ It ships with real-style default data for the **CSE 25 batch**: 38 students, 11 
 | Attendance | Add record form | CT / Exams | Result & CGPA |
 |---|---|---|---|
 | ![](docs/screenshots/06-attendance.png) | ![](docs/screenshots/07-add-record-form.png) | ![](docs/screenshots/08-ct-exams.png) | ![](docs/screenshots/09-result-cgpa.png) |
+
+<details>
+<summary>More screens: notices, groups, reports, library, canteen, blood donation, labs, settings</summary>
+
+| Notices | Groups | Reports | Library |
+|---|---|---|---|
+| ![](docs/screenshots/10-notices.png) | ![](docs/screenshots/11-groups.png) | ![](docs/screenshots/12-reports.png) | ![](docs/screenshots/13-library.png) |
+
+| Canteen | Blood donation | Lab management | Settings |
+|---|---|---|---|
+| ![](docs/screenshots/14-canteen.png) | ![](docs/screenshots/15-blood-donation.png) | ![](docs/screenshots/16-lab-management.png) | ![](docs/screenshots/17-settings.png) |
+</details>
