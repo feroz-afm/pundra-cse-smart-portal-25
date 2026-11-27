@@ -156,3 +156,11 @@ next start.
 ## How to Use
 Pick a module in the sidebar → select a record on the left to see full details on the right →
 use **Insert/Add**, **Update**, **Delete** or **Refresh**. Step-by-step: [docs/USER_GUIDE.md](docs/USER_GUIDE.md).
+
+## Troubleshooting
+| Problem | Fix |
+|---|---|
+| Window does not appear | Open `run_log.txt` next to the exe to see how far start-up got |
+| Old or missing data | Run `reset_data.bat` to reload the defaults |
+| `gcc` not recognised | Add `C:\msys64\ucrt64\bin` to `PATH` or build inside the MSYS2 UCRT64 shell |
+| Login fails after an update | Delete `data/users.txt` and start again to recreate the default admin |
