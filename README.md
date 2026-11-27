@@ -51,3 +51,7 @@ It ships with real-style default data for the **CSE 25 batch**: 38 students, 11 
 | Login | Dashboard |
 |---|---|
 | ![Login](docs/screenshots/01-login.png) | ![Dashboard](docs/screenshots/02-dashboard.png) |
+
+| Department | Students | Teachers |
+|---|---|---|
+| ![](docs/screenshots/03-department.png) | ![](docs/screenshots/04-students.png) | ![](docs/screenshots/05-teachers.png) |
