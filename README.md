@@ -37,3 +37,12 @@ It ships with real-style default data for the **CSE 25 batch**: 38 students, 11 
 - 🕓 **Activity log** of changes
 - 💾 Automatic saving to plain-text files — no database server needed
 - 🎨 Dark theme with large Times New Roman fonts for readability
+
+## Modules
+| Academic | People | Campus services | System |
+|---|---|---|---|
+| Courses | Students | Library | Dashboard |
+| Routine | Teachers | Canteen | Activity |
+| Attendance | Department | Blood Donation | Settings |
+| CT / Exams | Groups | Lab Management | Logout |
+| Result & CGPA | | Notices · Reports | |
