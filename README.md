@@ -152,3 +152,7 @@ Close the app, then run:
 
 Module files are deleted and the default data (38 students, 11 teachers, 10 courses, …) is loaded again on the
 next start.
+
+## How to Use
+Pick a module in the sidebar → select a record on the left to see full details on the right →
+use **Insert/Add**, **Update**, **Delete** or **Refresh**. Step-by-step: [docs/USER_GUIDE.md](docs/USER_GUIDE.md).
