@@ -175,3 +175,9 @@ bigger fonts and more. See [docs/DEVELOPMENT_LOG.md](docs/DEVELOPMENT_LOG.md).
 - [ ] Password hashing for user accounts
 - [ ] Export reports and results to PDF / CSV
 - [ ] Role-based access for teachers and students
+
+## License
+Licensed under the [Apache License 2.0](LICENSE).
+
+## Author
+**Md Feroz Ahmed** — CSE 25 Batch, Pundra University of Science & Technology · [GitHub](https://github.com/feroz-afm)
