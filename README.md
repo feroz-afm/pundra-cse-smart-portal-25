@@ -14,3 +14,8 @@
 ![Dashboard](docs/screenshots/02-dashboard.png)
 
 </div>
+
+## Contents
+[About](#about) · [Highlights](#highlights) · [Modules](#modules) · [Screenshots](#screenshots) ·
+[Tech stack](#tech-stack) · [Architecture](#architecture) · [Quick start](#quick-start) · [Build](#build-from-source) ·
+[Reset data](#reset-data) · [Troubleshooting](#troubleshooting) · [Roadmap](#roadmap)
