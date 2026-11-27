@@ -71,3 +71,12 @@ It ships with real-style default data for the **CSE 25 batch**: 38 students, 11 
 |---|---|---|---|
 | ![](docs/screenshots/14-canteen.png) | ![](docs/screenshots/15-blood-donation.png) | ![](docs/screenshots/16-lab-management.png) | ![](docs/screenshots/17-settings.png) |
 </details>
+
+## Tech Stack
+| Part | Choice |
+|---|---|
+| Language | C |
+| GUI | Win32 API (`STATIC`, `EDIT`, `BUTTON`, `LISTBOX` controls, GDI fonts and brushes) |
+| Compiler | GCC on MSYS2 UCRT64 (`-mwindows -lgdi32 -luser32`) |
+| Storage | Plain-text files in `data/` |
+| OS | Windows 10 / 11 |
