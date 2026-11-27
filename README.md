@@ -55,3 +55,7 @@ It ships with real-style default data for the **CSE 25 batch**: 38 students, 11 
 | Department | Students | Teachers |
 |---|---|---|
 | ![](docs/screenshots/03-department.png) | ![](docs/screenshots/04-students.png) | ![](docs/screenshots/05-teachers.png) |
+
+| Attendance | Add record form | CT / Exams | Result & CGPA |
+|---|---|---|---|
+| ![](docs/screenshots/06-attendance.png) | ![](docs/screenshots/07-add-record-form.png) | ![](docs/screenshots/08-ct-exams.png) | ![](docs/screenshots/09-result-cgpa.png) |
